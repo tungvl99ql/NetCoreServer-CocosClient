@@ -9,4 +9,8 @@
 <li class="has-line-data" data-line-start="10" data-line-end="11">Server: cài đặt visual studio .net core 5.0 để chạy</li>
 <li class="has-line-data" data-line-start="11" data-line-end="12">Database: cài đặt mongodb</li>
 <li class="has-line-data" data-line-start="12" data-line-end="13">Client: cài đặt cocos creator 3.5.1</li>
+<li class="has-line-data" data-line-start="13" data-line-end="14"></li>
 </ul>
+<p class="has-line-data" data-line-start="14" data-line-end="15"><img src="https://raw.githubusercontent.com/tungvl99ql/NetCoreServer-CocosClient/main/serverdemo.png" alt="N|Solid"></p>
+<p class="has-line-data" data-line-start="16" data-line-end="17"><img src="https://raw.githubusercontent.com/tungvl99ql/NetCoreServer-CocosClient/main/datademo.png" alt="N|Solid"></p>
+<p class="has-line-data" data-line-start="18" data-line-end="19"><img src="https://raw.githubusercontent.com/tungvl99ql/NetCoreServer-CocosClient/main/logindemo.png" alt="N|Solid"></p>
